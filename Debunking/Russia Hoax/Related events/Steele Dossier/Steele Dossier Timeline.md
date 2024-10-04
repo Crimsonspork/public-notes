@@ -54,5 +54,3 @@
 + **Igor Danchenko**, a key source for the Steele Dossier, was indicted for lying to the FBI about his sources of information. The indictment raised further doubts about the credibility of the dossier and its allegations against Trump.
 
 ```
-
-

@@ -1,4 +1,4 @@
-```timeline
+``` timeline
 [line-3, body-2]
 + Mid-2014 
 + Internet Research Agency (IRA) 
@@ -87,6 +87,5 @@
 + December 23, 2020
 + Paul Manafort Receives Full Pardon
 + Paul Manafort, Trump’s former campaign chairman, was granted a full pardon by President Trump. Manafort had been convicted of financial crimes including tax and bank fraud related to his work as a political consultant in Ukraine, uncovered during the Mueller investigation. Though not directly tied to collusion with Russia, his crimes were part of the broader fallout from investigations into Trump campaign officials. The pardon ended any remaining legal consequences from his convictions.
-
 ```
 
