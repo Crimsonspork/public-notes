@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"c2dc44bff33ddfdf","type":"file","file":"public-notes/Debunking/Russia Hoax/Related events/Mueller Investigation Timeline.md","x":-740,"y":-360,"width":1700,"height":4600},
+		{"id":"14488ea40c0d3276","type":"file","file":"public-notes/Debunking/Russia Hoax/Related events/Paul Manafort Timeline.md","x":1080,"y":-360,"width":1700,"height":1040},
+		{"id":"e4236be7d1dd9f80","type":"file","file":"public-notes/Debunking/Russia Hoax/Related events/Michael Flynn Timeline.md","x":1080,"y":2080,"width":1700,"height":1040},
+		{"id":"ac3452f2cda00fd7","type":"file","file":"public-notes/Debunking/Russia Hoax/Related events/Roger Stone Timeline.md","x":1100,"y":880,"width":1700,"height":1104}
+	],
+	"edges":[]
+}

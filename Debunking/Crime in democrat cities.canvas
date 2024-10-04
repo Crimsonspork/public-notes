@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"8a00fdaade062726","type":"text","text":"Crime in democrat cities","x":-220,"y":-560,"width":250,"height":60,"color":"2"},
+		{"id":"caf7807df3c748d2","type":"text","text":"The 5 cities with the highest murder rates per 100K have democrat mayors.","x":-560,"y":-300,"width":250,"height":140,"color":"1"},
+		{"id":"c7cb20096b162188","x":-810,"y":-60,"width":250,"height":60,"color":"6","type":"text","text":"This is true"}
+	],
+	"edges":[
+		{"id":"ba8aa1a72bb02c7a","fromNode":"8a00fdaade062726","fromSide":"bottom","toNode":"caf7807df3c748d2","toSide":"top"},
+		{"id":"21283fdc2f284062","fromNode":"caf7807df3c748d2","fromSide":"bottom","toNode":"c7cb20096b162188","toSide":"top"}
+	]
+}

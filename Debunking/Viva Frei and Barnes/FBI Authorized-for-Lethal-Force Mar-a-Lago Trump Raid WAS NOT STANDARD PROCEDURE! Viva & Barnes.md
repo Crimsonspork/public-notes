@@ -1,0 +1,56 @@
+https://www.youtube.com/watch?app=desktop&si=GfB13-07nEe222tf&v=pBlds8TvyWU&feature=youtu.be&ab_channel=VivaFrei
+
+
+- 01:35 - It was a passive assassination attempt.
+	- Steelman: 
+		- Other people say it was just standard operating procedure
+	- Argument: 
+		- "I think it's outrageous even if it is standard operating procedure it's outrageous they had the authorization to use lethal Force while raiding a secret service protected entity while being authorized to wear Polo's plane clothes carry guns bring box cutters to raid the president's mar ago property"
+	- Counter argument:
+		- This immediately concedes the click bait title, that it was in fact standard operating procedure.
+		- They specifically went when they knew Trump wasn't there and they communicated with secret service just before the raid. This soundly defeats every consideration brought up here.
+			- https://apnews.com/article/fact-check-trump-fbi-maralago-search-672e97d19032de0947f108e4911f191e#:~:text=Trump%20wasn't%20at%20Mar,shortly%20before%20serving%20the%20warrant.
+		- At 4:39, viva admits he knew that they had communicated with secret service before the raid. 
+- 02:55 - They were hoping there would be an escalation, like in Jan 6
+	- Steelman: 
+	- Argument:
+		- There is no precedent at all for executing a search warrant on a past/present/future president so this cannot be standard operating procedure.
+	- Counter argument:
+		- Trump chose to hold the protest on Jan 6 at the capitol and told his followers to go protest at the capitol after his rally. Which person was ACTUALLY escalating in this situation?
+		- The claim that because it was a president, that it somehow makes it non standard is asserted with no justification, so there is nothing to argue with. For example, you might argue that raiding a bunker would be unprecedented because the method for gaining entry might require some novel use of force.
+- 03:56 - The gag orders are violating his first amendment
+	- Steelman: Jack smith asked federal judge to stop Trump from exposing that they tried to assassinate him.
+	- Arguments:
+		- On the issue of the gag order, jack smith lied in order to get the warrant for the raid.
+	- Counter argument:
+		- I have no idea what relevance the argument has to the claim.
+		- Trump tweeting lies to the public to rile them up could cause harm to the agents who conducted the raid and his lies have caused an attack on an FBI office previously.
+			- https://deadline.com/2024/05/trump-assassionation-jack-smith-gag-order-1235941297/
+		- Violating your first amendment is totally fine and normal as part of a legal process and we want it to be part of the legal process.
+- 04:18 - Jack smith told the judge that he reviewed the warrant for the raid with Trumps counsel but he didn't.
+	-  Steelman: 
+	- Argument: The warrant told them to review it with Trumps counsel and they promised the judge they would, but that isn't what they did.
+	- Counter argument:
+		- I have literally no idea what they are even talking about here, they keep schizoing between the gag order and the warrant for the raid.
+- 04:47 - They never conferred effectively with the secret service.
+	-  Steelman: 
+	- Argument:
+		- "because there was no need for the raid"
+	- Counter argument:
+		- They did confer with secret service before the raid.
+			- https://www.theguardian.com/us-news/2022/aug/09/donald-trump-fbi-raid-documents
+		- The idea that there is not a need for them to talk to secret service because there was no need for a raid at all is a truly incomprehensible argument.
+- 04:57 - Trump had consistently complied with a wide range of requests.
+	-  Steelman: 
+	- Argument:
+		- Trump was actually working with NARA to return the documents in a compliant way.
+	- Counter argument:
+		- This is a lie
+			- May 2021 - Trump was asked to hand over the documents
+			- January 2022 - Trump returned 15 boxes
+			- August 2022 - Raid seizes remaining documents
+		- In between each of the above is a slew of requests for the documents with constant stalling from Trump.
+- 
+	-  Steelman: 
+	- Argument:
+	- Counter argument:
