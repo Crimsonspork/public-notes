@@ -13,7 +13,8 @@ https://www.youtube.com/watch?v=Rq7Wsx5Y0K8&ab_channel=VivaFrei
 - **Trump Opposed the Bill**:
     - _"They are playing the politics that they accuse Trump of playing... while blaming Donald Trump for doing exactly what they are doing themselves."_
 ## The border bill:
-* The actual bill text: https://www.appropriations.senate.gov/imo/media/doc/emergency_national_security_supplemental_bill_text.pdf
+* The actual bill text: [here](https://www.appropriations.senate.gov/imo/media/doc/emergency_national_security_supplemental_bill_text.pdf) 
+* Summary of bill: [here](https://www.lankford.senate.gov/wp-content/uploads/2024/02/FINAL-GENERAL-ONE-PAGER.pdf)
 # Reality
 ## Foreign Aid
 ### Aid to Ukraine:
