@@ -19,7 +19,7 @@ https://www.youtube.com/watch?v=Rq7Wsx5Y0K8&ab_channel=VivaFrei
 # Reality
 ## Foreign Aid
 ### Aid to Ukraine:
-* ***$48.43 billion**: Allocated for Ukraine’s defense against Russia, including replenishment of U.S. military equipment and direct military support.
+* **$48.43 billion**: Allocated for Ukraine’s defense against Russia, including replenishment of U.S. military equipment and direct military support.
 * **Quote**: _“$19.85 billion to replenish U.S. military weapons and equipment... $13.8 billion to allow Ukraine to re-arm... $14.8 billion for military training, intelligence sharing, increased presence, and other support activities.”_
 ### Aid to Israel:
 * **$10.6 billion**: For Israeli defense, including $4 billion for missile defense systems like the Iron Dome and $1.2 billion for Iron Beam.
@@ -30,7 +30,7 @@ https://www.youtube.com/watch?v=Rq7Wsx5Y0K8&ab_channel=VivaFrei
 ## Border Provisions
 ### Border Security Funding:
 
-* *Customs and Border Protection (CBP)**:
+* **Customs and Border Protection (CBP):**
     - **$6.766 billion**: For enhancing security at the U.S. border.
     - **Quote**: _“Provides $6.766 billion to U.S. Customs and Border Protection... $3.88 billion for operational costs, $723 million for additional officers and agents, $424.5 million to combat fentanyl entry.”_
 *  **Immigration and Customs Enforcement (ICE)**:
@@ -56,7 +56,7 @@ https://www.youtube.com/watch?v=Rq7Wsx5Y0K8&ab_channel=VivaFrei
 	- Limiting judicial review to the **U.S. District Court for the District of Columbia** centralizes legal challenges to a single court with expertise in handling complex federal issues, including immigration and executive actions. This concentration of jurisdiction can streamline cases related to national security, reduce forum shopping (where parties might seek favorable courts), and create consistent legal interpretations of the law. Additionally, DC courts are experienced in cases involving federal agencies, which may be important for cases challenging executive discretion in handling border security emergencies.
 	- **Quote:** _“The U.S. District Court for the District of Columbia has sole and original jurisdiction over any challenge arising from the Secretary’s authority to exercise the border emergency authority.”
 ### [Asylum Changes](https://www.congress.gov/bill/118th-congress/senate-bill/4361/text#id9e28a01ece404a7ca59d2ed206dc5489)
-* Asylum Officers will make asylum determinations.
+* **Asylum Officers will make asylum determinations.**
 	* *"(A) IN GENERAL.—To the maximum extent practicable, within 90 days after the date on which an alien is referred for proceedings under this section, an asylum officer shall conduct a protection determination of such alien in person or through a technology appropriate for protection determinations."*  - [link](https://www.congress.gov/bill/118th-congress/senate-bill/4361/text#id4e6f0f70b9b04e7283301ff94e50ce12)
 	* *“(A) IN GENERAL.—If an alien demonstrates, by clear and convincing evidence, that the alien is eligible for asylum, withholding of removal under section 241(b)(3), or protection under the Convention Against Torture during the protection determination, the asylum officer, subject to the procedures under subparagraph (B), may grant an application for such relief or protection submitted by such alien without referring the alien to protection merits removal proceedings under section 240D."* - [link](https://www.congress.gov/bill/118th-congress/senate-bill/4361/text#id0f307bf548eb48a38d8cb969864c8ea4)
 
